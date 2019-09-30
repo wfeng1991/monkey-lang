@@ -8,6 +8,8 @@ type Token struct {
 }
 
 const(
+    // data structure
+    STRING = "STRING"
 	// Keywords
 	FUNCTION = "FUNCTION"
 	LET      = "LET"
